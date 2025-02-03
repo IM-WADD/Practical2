@@ -15,7 +15,7 @@ Creating a high quality portfolio website can take a long time so, for this sess
 
 Focusing on one page at a time, plan the semantic HTML structure of your portfolio. To make sure you actually write some HTML today, **spend no more than the first hour of practical on this stage**. You are not being marked, you do not have to make the site public unless you want to, and you can always come back and make changes in future so don’t get bogged down in the details! 
 
-You will probably find it helpful to look at some [example web developer portfolio sites](https://www.freecodecamp.org/news/15-web-developer-portfolios-to-inspire-you-137fb1743cae/) for inspiration. 
+You will probably find it helpful to look at some [example developer portfolio sites](https://github.com/emmabostian/developer-portfolios) for inspiration. 
 
 Some tips:
 - At a minimum, you should plan for a `<header>`, which will contain your site title and a `<nav>` with links to each page on your site, and a `<main>` area that will contain the main contents of each page. The `<header>` section may be the same on each page.
