@@ -37,11 +37,23 @@ After completing stage 1, you should have an outline of your portfolio marked up
 Next, create a folder for your website and open it in Visual Studio Code. From inside VS Code, create HTML files for each page of your site. Follow these guidelines:
 - The entry point of your site (your home page) must be a file named **index.html**. When a user types in the URL of a website without a specific file name, the browser looks for a file name index.html. Naming your entry point index.html ensures your site will be found.
 - You may name the other files of your site whatever you like but filenames should not contain spaces or special characters other than _ or –
-- Use the boilerplate code provided in Lecture 2 (see the slides) for every HTML file. Make sure you update the `<title>` tag of each page! Reminder: don’t copy-paste code directly from the slides as you will likely encounter bugs due to character encoding.
+- Use the boilerplate code provided in Lecture 2 (see the code below) for every HTML file. Make sure you update the `<title>` tag of each page! Reminder: don’t copy-paste code directly from the slides as you will likely encounter bugs due to character encoding.
+
+```
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <title>CHANGE ME!!!</title>
+  </head>
+  <body>
+  </body>
+</html>
+```
 
 Begin filling in each page with the semantic HTML you planned in stage 1. Don’t worry about putting “real” text content and images in the pages just yet (unless you’re ready). You can use [lorem ipsum as filler text](https://www.lipsum.com/feed/html) and you can download placeholder images from [pixabay](https://pixabay.com/) or [pexels](https://www.pexels.com/). 
 
-Aim to get at least two pages mocked up in HTML by the end of practical and make sure there’s a way to navigate between them. A widely used convention for creating a menu on a website is to use an unordered list. By default, unordered lists appear as a list of bullet points, which probably isn’t how you want your navigation to look. We will use CSS to style the list appropriately next week. For now, the code for your site navigation should look something like this:
+Aim to get at least one page mocked up in HTML by the end of practical. If you have more than one page ready, make sure there’s a way to navigate between them. A widely used convention for creating a menu on a website is to use an unordered list. By default, unordered lists appear as a list of bullet points, which probably isn’t how you want your navigation to look. We will use CSS to style the list appropriately next week. For now, the code for your site navigation should look something like this:
 ```
 <nav>
     <ul>
