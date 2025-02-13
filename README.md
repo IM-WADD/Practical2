@@ -13,7 +13,7 @@ The exact contents of your portfolio are up to you, but you should aim for the f
 
 Creating a high quality portfolio website can take a long time so, for this session, focus on how you will structure the information on each page of your site and don’t worry too much about the content itself, or design details like the colour palette (we’ll get into styling next week).
 
-Focusing on one page at a time, plan the semantic HTML structure of your portfolio. To make sure you actually write some HTML today, **spend no more than the first hour of practical on this stage**. You are not being marked, you do not have to make the site public unless you want to, and you can always come back and make changes in future so don’t get bogged down in the details! 
+Focusing on one page at a time, plan the semantic HTML structure of your portfolio. To make sure you actually write some HTML today, **spend no more than the first half hour of practical on this stage**. You are not being marked, you do not have to make the site public unless you want to, and you can always come back and make changes in future so don’t get bogged down in the details! 
 
 You will probably find it helpful to look at some [example developer portfolio sites](https://github.com/emmabostian/developer-portfolios) for inspiration. 
 
